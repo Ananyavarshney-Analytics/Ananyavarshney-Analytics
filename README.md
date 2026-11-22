@@ -58,7 +58,7 @@ Welcome to my GitHub profile! I transform raw data into meaningful insights and 
 - Explored product and store performance.
 - Identified sales trends and business insights.
 
-**Tools:** Excel, SQL, Power BI
+**Tools:** Excel, SQL, Python
 
 [View Project](https://github.com/Ananyavarshney-Analytics/coffee-shop-sales-analysis)
 
