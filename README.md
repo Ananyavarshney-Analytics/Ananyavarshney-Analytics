@@ -104,4 +104,13 @@ Welcome to my GitHub profile! I transform raw data into meaningful insights and 
 **Let's turn data into decisions! 📊**
 
 
+## 👀 Profile Visitors
+
+![Visitors](https://komarev.com/ghpvc/?username=Ananyavarshney-Analytics&color=6C63FF&style=for-the-badge)
+
+
+## 🔥 GitHub Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ananyavarshney-Analytics&theme=tokyonight&hide_border=true)
+
 ---
