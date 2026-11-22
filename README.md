@@ -58,6 +58,9 @@ Welcome to my GitHub profile! I transform raw data into meaningful insights and 
 
 [View Project](https://github.com/Ananyavarshney-Analytics/coffee-shop-sales-analysis)
 
+![Coffee Shop Sales Dashboard](./Coffee_Sales%20%281%29.png)
+
+
 ### 🏥 Medical Cost Analysis
 
 - Analyzed medical insurance cost data.
