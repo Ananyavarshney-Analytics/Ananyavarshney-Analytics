@@ -71,6 +71,9 @@ Welcome to my GitHub profile! I transform raw data into meaningful insights and 
 
 [View Project](https://github.com/Ananyavarshney-Analytics/Medical-Cost-Analysis)
 
+![Medical Cost Analysis Dashboard](./Medical_cost%20(2).png)
+
+
 ## 🎯 My Goals
 
 - Build real-world data analytics projects.
