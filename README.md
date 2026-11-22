@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="./Github_banner.png.png" width="100%" alt="Ananya Varshney - Data Analyst"/>
+</p>
+
 # 👋 Hi, I'm Ananya Varshney!
 
 ### 📊 Data Analyst | Excel | SQL | Power BI | Python
